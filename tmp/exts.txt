@@ -1,0 +1,173 @@
+
+494433*)
+			ext="mp3"
+			desc="MP3 file with an ID3v2 container"
+			;;
+
+
+664C6143*)
+			ext="flac"
+			desc="Free Lossless Audio Codec"
+			;;
+4D546864*)
+			ext="mid,midi"
+			desc="MIDI sound file"
+			;;
+D0CF11E0A1B11AE1*)
+			ext="doc,xls,ppt,msg"
+			desc="Compound File Binary Format, a container format used for document by older versions of Microsoft Office. It is however an open format used by other programs as well."
+			;;
+6465780A30333500*)
+			ext="dex"
+			desc="Dalvik Executable"
+			;;
+4B444D*)
+			ext="vmdk"
+			desc="VMDK files"
+			;;
+43723234*)
+			ext="crx"
+			desc="Google Chrome extension or packaged app"
+			;;
+41474433*)
+			ext="fh8"
+			desc="FreeHand 8 document"
+			;;
+7801730D626260*)
+			ext="dmg"
+			desc="Apple Disk Image file"
+			;;
+78617221*)
+			ext="xar"
+			desc="eXtensible ARchive format"
+			;;
+504D4F43434D4F43*)
+			ext="dat"
+			desc="Windows Files And Settings Transfer Repository  See also USMT 3.0 (Win XP) and USMT 4.0 (Win 7) User Guides"
+			;;
+4E45531A*)
+			ext="nes"
+			desc="Nintendo Entertainment System ROM file"
+			;;
+746F7833*)
+			ext="tox"
+			desc="Open source portable voxel file"
+			;;
+4D4C5649*)
+			ext="MLV"
+			desc="Magic Lantern Video file"
+			;;
+44434D0150413330*)
+			ext=""
+			desc="Windows Update Binary Delta Compression"
+			;;
+377ABCAF271C*)
+			ext="7z"
+			desc="7-Zip File Format"
+			;;
+
+FD377A585A0000*)
+			ext="xz,tar.xz"
+			desc="XZ compression utility using LZMA2 compression"
+			;;
+04224D18*)
+			ext="lz4"
+			desc="LZ4 Frame Format   Remark: LZ4 block format does not offer any magic bytes."
+			;;
+4D534346*)
+			ext="cab"
+			desc="Microsoft Cabinet file"
+			;;
+535A444488F02733*)
+			ext="Various. (Replacing the last character of the original filename extension with an underscore, e.g. setup.exe becomes setup.ex_)"
+			desc="Microsoft compressed file in Quantum format, used prior to Windows XP. File can be decompressed using Extract.exe or Expand.exe distributed with earlier versions of Windows."
+			;;
+464C4946*)
+			ext="flif"
+			desc="Free Lossless Image Format"
+			;;
+1A45DFA3*)
+			ext="mkv,mka,mks,mk3d,webm"
+			desc="Matroska media container, including WebM"
+			;;
+4D494C20*)
+			ext="stg"
+			desc=""SEAN : Session Analysis" Training file. Also used in compatible software "Rpw : Rowperfect for Windows" and "RP3W : ROWPERFECT3 for Windows"."
+			;;
+41542654464F524D ?? ?? ?? ??444A56*)
+			ext="djvu,djv"
+			desc="DjVu document The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents."
+			;;
+
+774F4646*)
+			ext="woff"
+			desc="WOFF File Format 1.0"
+			;;
+774F4632*)
+			ext="woff2"
+			desc="WOFF File Format 2.0"
+			;;
+3c3f786d6c20*)
+			ext="XML"
+			desc="eXtensible Markup Language when using the ASCII character encoding"
+			;;
+0061736d*)
+			ext="wasm"
+			desc="WebAssembly binary format"
+			;;
+27051956*)
+			ext=""
+			desc="U-Boot / uImage. Das U-Boot Universal Boot Loader."
+			;;
+54415045*)
+			ext=""
+			desc="Microsoft Tape Format"
+			;;
+000001BA*)
+			ext="m2p,,vob"
+			desc="MPEG Program Stream (MPEG-1 Part 1 (essentially identical) and MPEG-2 Part 1)"
+			;;
+
+
+62767832*)
+			ext="lzfse"
+			desc="LZFSE - Lempel-Ziv style data compression algorithm using Finite State Entropy coding. OSS by Apple."
+			;;
+
+4F626A01*)
+			ext="avro"
+			desc="Apache Avro binary file format"
+			;;
+53455136*)
+			ext="rc"
+			desc="RCFile columnar file format"
+			;;
+65877856*)
+			ext="p25,,obt"
+			desc="PhotoCap Object Templates"
+			;;
+5555aaaa*)
+			ext="pcv"
+			desc="PhotoCap Vector"
+			;;
+
+50415231*)
+			ext=""
+			desc="Apache Parquet columnar file format"
+			;;
+454D5832*)
+			ext="ez2"
+			desc="Emulator Emaxsynth samples"
+			;;
+454D5533*)
+			ext="ez3,,iso"
+			desc="Emulator III synth samples"
+			;;
+1B4C7561*)
+			ext="luac"
+			desc="Lua bytecode"
+			;;
+
+
+
+
